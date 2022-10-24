@@ -1,0 +1,19 @@
+h1{
+   margin: 50px;
+   padding: ;
+   color: green ;
+   background-color: coral;
+   border-bottom: 10 ;
+}
+h2{
+    margin: 100px; 
+    padding: 100px;
+    color: blue ;
+    background-color: cyan;
+}
+h3{
+    margin: 450px; 
+    padding: 450px;
+    color: yellow ;
+    background-color: chocolate ;
+}
