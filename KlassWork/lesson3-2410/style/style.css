@@ -1,0 +1,79 @@
+h1{
+color: red; 
+text-align: center;
+}
+.one{
+    font-size: 30px;
+    color: aqua;
+}
+.two{
+    text-align: end;
+    color: blue;
+}
+.three{
+    font-size: 20px;
+    /* размер шрифта */
+    font-weight: 900;
+    /* ширность шрифта */
+    font-style: italic;
+    /* стиль шрифта */
+} 
+
+.four{
+    /* text-decoration: underlene; */
+    /* text-decoration: overlene; */
+    text-decoration-line: overline;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}
+.text-indet{
+    text-indent: 50px;
+    /* отступ от левой стороны */
+    word-spacing: 10px;
+}
+.text-transform{
+    text-transform: lowercase;
+} 
+.text-shadow{
+    text-shadow: 2px 2px 2px gold;
+}
+.box{
+    background-color: green;
+    width: 200px ;
+    height: 200px ;
+} 
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    height: 1000px;
+    border: 10px solid black;
+    align-items: center;
+}
+
+.box3 a{
+    display: block;
+}
+
+
+
+header{
+    display: flex;
+    border: 3px solid black;
+    height: 250px;
+    align-items: center;
+
+}
+nav{
+    width: 500px;
+    display: ;
+    justify-content: space-around;
+margin-left: 100pc;
+margin-top: 45px;
+}
+a{
+    font-size: 20px;
+    

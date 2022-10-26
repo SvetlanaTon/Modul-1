@@ -1,0 +1,99 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color:#1ABC9C ;
+    min-height: 70px;
+    align-items:center ;
+    padding: 0 50px 0 70px;
+}
+
+.icon{
+}
+.nav{
+    font-size: 25px;
+    font-weight: 400px;
+    line-height: 30px;
+}
+.nav a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+.soc a{
+margin-left: 20px;
+text-decoration: none;
+}
+
+/* -------------------- */
+
+main{
+    display: flex;
+}
+.text{
+    margin: 218px 70px 62px;
+}
+.text h2{
+    text-align: center;
+    margin-bottom: 23px;
+    font-size: 35px;
+    font-weight: 400;
+}
+.text p{
+    text-align: justify;
+    font-size: 20px;
+    line-height: 24px
+ 
+}
+
+
+section {
+    background-color: #DCFFEB;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+section h2{
+    padding: 124px 0px 50px 64px;
+    font-weight: 400;
+    font-size: 35px;
+}
+.img {
+    width: 436px;
+    height: 376px;
+    background-image: url('../img/stadion.png');
+}
+
+.img h3 {
+    font-size: 24px;
+    color: white;
+}
+
+.img p {
+    width: 360px;
+    color: white;
+    font-size: 16px;
+}
+
+.text-text {
+    margin-top: 235px;
+    margin-left: 50px;
+}
+/* ---futer----*/
+
+.footer h2 {
+padding: 84px 0 55px 70px ; 
+font-size: 24px;
+font-weight: 500;
+}
+.itan{
+    display: flex;
+    justify-content: space-around; 
+}
