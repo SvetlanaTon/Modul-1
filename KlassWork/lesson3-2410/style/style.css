@@ -69,7 +69,7 @@ header{
 }
 nav{
     width: 500px;
-    display: ;
+    /* display: ; */
     justify-content: space-around;
 margin-left: 100pc;
 margin-top: 45px;
@@ -77,3 +77,4 @@ margin-top: 45px;
 a{
     font-size: 20px;
     
+}

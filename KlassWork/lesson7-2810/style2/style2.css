@@ -1,0 +1,32 @@
+.container{
+    width: 400px;
+    background-color:cornflowerblue;
+    margin: 100px auto;
+    padding: 50px;
+    border-radius: 40px;
+    box-shadow: 7px 7px 2px rgb(4, 32, 85 )
+}
+
+.pole,textarea{
+    background-color: rgb(90,90,211);
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+    transform: 0.5s;   
+}
+
+.pole:focus{
+    box-shadow: 5px 5px 2px 2px rgb(red, green, blue) ;
+}
+
+.btm{
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color: rgb(90,90,211);
+    transition-duration: 0,5c;
+}
+.btm:hover{
+    background-color: rgb(142, 142,231);
+}
